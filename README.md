@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Anniymm
 - 👀 I’m interested in SOFTWARE and HARDWARE
-- 🌱 I’m currently learning DJANGO
+- 🌱 I’m currently learning Rest API
 - 📫 How to reach me animaisuradze1999@gmail.com
 
 
