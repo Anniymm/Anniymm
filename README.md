@@ -1,4 +1,4 @@
-                                                  HELLO, CONTINUOUS LEARNING WORLD!
+                                                  HELLO **CONTINUOUS LEARNING** WORLD!
 
 - 👋 Hi, I’m @Anniymm
 - 👀 I’m interested in SOFTWARE and HARDWARE
