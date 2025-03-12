@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🌎 </h2>
+<h1 align="center">Hello World! 🌎 </h1>
 <!-- <h1 align="center">2b || !2b </h1> -->
 
 ####
@@ -36,6 +36,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+ 
+</div>
+
+<div align="center">
+  <!-- Added Java, JavaScript, Gradle, PostgreSQL, Maven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="30" alt="maven logo"  />
 </div>
 
 ###
